@@ -53,4 +53,4 @@ Each location can reach one other, and the last one can reach the first, so all 
 
 {"0110000","1000100","0000001","0010000","0110000","1000010","0001000"}
 
-Returns: { 1,  3 }
+Returns: { 1,  3 } 
